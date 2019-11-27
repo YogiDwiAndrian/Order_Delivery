@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Order Management</string>
+    <string name="item_name">Item Name:</string>
+    <string name="quantity">Quantity : </string>
+    <string name="item_count">10</string>
+    <string name="date">dd/MM/yyyy</string>
+    <string name="btnupdate">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="save">Save</string>
+    <string name="item_name_hint">Item Name</string>
+    <string name="quantity_hint">Quantity</string>
+    <string name="save_btn">SAVE</string>
+    <string name="cancel_btn">cancel &amp; CLOSE</string>
+    <string name="title_activity_sdasda">sdasda</string>
+    <string name="choose_date">Choose Date</string>
+    <string name="input_date">Input Date</string>
+    <string name="date_tv">Date :</string>
+    <string name="quantity_tv">Quantity :</string>
+    <string name="item_name_tv">Item Name :</string>
+    <string name="tv_date">Date:</string>
+    <string name="x">x</string>
+
+
+</resources>
